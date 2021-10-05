@@ -1,2 +1,5 @@
 # House-Prices---Advanced-Regression-Techniques-Kaggle-
- Perform Data analysis to get more info about the data and handle missing data or null values, and find all the numeric and categorical values in dataset to perform EDA.  After that implement feature engineering and feature selection in categorical and numerical to check the outliers by using boxplot graph.  Then concatenate the train and test data into final data frame for model fitting and remove the duplicate values from final data frame. Converting the all categorical values to one hot coding and then use the Regression model i.e. Random forest to create model. Fit the model and predict the independent values.
+*Predict the house price*
+Perform EDA to get more insights about the data and handle missing data.
+After that implement feature engineering to find the outliers in the dataset
+And the main objective is to predict the house price using the Random Forest.
